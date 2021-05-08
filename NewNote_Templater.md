@@ -1,5 +1,5 @@
-tags:
-links:  [[Previous File Name here]]
+Tags:
+Links:  [[Previous File Name here]]
 Created: <% tp.date.now("YYMMDD") %>
 
 ---
