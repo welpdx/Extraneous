@@ -1,3 +1,5 @@
+# https://github.com/dutchcoders/transfer.sh#bash-and-zsh-with-delete-url-delete-token-output-and-prompt-before-uploading
+# add to .bashrc
 transfer()
 {
     local file
